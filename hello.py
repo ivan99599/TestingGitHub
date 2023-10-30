@@ -1,5 +1,5 @@
 print("Helllo World")
 
-name_dog = input()
+name_dog = "Rex"
 age = int(input())
 
